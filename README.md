@@ -6,6 +6,8 @@
 
 ![Sam06tanb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam06tanb&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam06tanb)](https://github.com/Sam06tanb/github-readme-stats)
+
 ## Technology I use in my day
 
 <div style="display: inline_block"><br/>
