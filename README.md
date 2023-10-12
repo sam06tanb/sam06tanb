@@ -6,6 +6,8 @@
 
 ![Sam06tanb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam06tanb&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam06tanb&layout=donut)](https://github.com/Sam06tanb/github-readme-stats)
+
 
 
 
