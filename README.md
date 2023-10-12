@@ -8,10 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam06tanb&layout=donut)](https://github.com/Sam06tanb/github-readme-stats)
 
-
-
-
-
 ## Technology I use in my day
 
 <div style="display: inline_block"><br/>
