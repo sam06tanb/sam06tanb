@@ -2,11 +2,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ](https://www.instagram.com/samirtajra6/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgp6BkyctNOxTs1DnKNFjAA
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgp6BkyctNOxTs1DnKNFjAA)
 
-![Sam06tanb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam06tanb&show_icons=true&theme=radical)
+![Sam06tanb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam06tanb&show_icons=true&theme=radical
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam06tanb&layout=donut)](https://github.com/Sam06tanb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam06tanb&layout=donut)](https://github.com/Sam06tanb/github-readme-stats
 
 
 
