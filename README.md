@@ -33,6 +33,10 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
+<div style="display: inline_block"><br/>
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/Postman-007ACC?style=for-the-badge&logo=postman&logoColor=white">
+</div>
+
 
 
 ## I am a programmer that wants to learn more every day.
