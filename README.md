@@ -34,13 +34,22 @@
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 <div style="display: inline_block"><br/>
-<img align="center" alt="Typescript" src="https://img.shields.io/badge/Postman-007ACC?style=for-the-badge&logo=postman&logoColor=white">
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/Postman-007ACC?style=for-the-badge&logo=postman&logoColor=orange">
 </div>
 <div style="display: inline_block"><br/>
-<img align="center" alt="Typescript" src="https://img.shields.io/badge/ApacheTomcat-007ACC?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/ApacheTomcat-007ACC?style=for-the-badge&logo=apachetomcat&logoColor=yellow">
 </div>
 <div style="display: inline_block"><br/>
-<img align="center" alt="Typescript" src="https://img.shields.io/badge/Springboot-007ACC?style=for-the-badge&logo=springboot&logoColor=white">
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/Springboot-007ACC?style=for-the-badge&logo=springboot&logoColor=green">
+</div>
+<div style="display: inline_block"><br/>
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/Postgresql-007ACC?style=for-the-badge&logo=postgresql&logoColor=blue">
+</div>
+<div style="display: inline_block"><br/>
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/Maven-007ACC?style=for-the-badge&logo=maven&logoColor=purple">
+</div>
+<div style="display: inline_block"><br/>
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/Heroku-007ACC?style=for-the-badge&logo=heroku&logoColor=green">
 </div>
 
 
