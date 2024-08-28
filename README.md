@@ -37,13 +37,13 @@
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/Postman-007ACC?style=for-the-badge&logo=postman&logoColor=orange">
 </div>
 <div style="display: inline_block"><br/>
-<img align="center" alt="Typescript" src="https://img.shields.io/badge/ApacheTomcat-007ACC?style=for-the-badge&logo=apachetomcat&logoColor=yellow">
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/ApacheTomcat-ED8B00?style=for-the-badge&logo=apachetomcat&logoColor=yellow">
 </div>
 <div style="display: inline_block"><br/>
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/Springboot-239120?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 <div style="display: inline_block"><br/>
-<img align="center" alt="Typescript" src="https://img.shields.io/badge/Postgresql-007ACC?style=for-the-badge&logo=postgresql&logoColor=blue">
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/Postgresql-007ACC?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 <div style="display: inline_block"><br/>
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/Maven-007ACC?style=for-the-badge&logo=maven&logoColor=purple">
