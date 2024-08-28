@@ -40,7 +40,7 @@
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/ApacheTomcat-007ACC?style=for-the-badge&logo=apachetomcat&logoColor=yellow">
 </div>
 <div style="display: inline_block"><br/>
-<img align="center" alt="Typescript" src="https://img.shields.io/badge/Springboot-007ACC?style=for-the-badge&logo=springboot&logoColor=green">
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/Springboot-239120?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 <div style="display: inline_block"><br/>
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/Postgresql-007ACC?style=for-the-badge&logo=postgresql&logoColor=blue">
@@ -49,7 +49,7 @@
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/Maven-007ACC?style=for-the-badge&logo=maven&logoColor=purple">
 </div>
 <div style="display: inline_block"><br/>
-<img align="center" alt="Typescript" src="https://img.shields.io/badge/Heroku-007ACC?style=for-the-badge&logo=heroku&logoColor=green">
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/Heroku-239120?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
 
 
