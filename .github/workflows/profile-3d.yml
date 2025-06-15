@@ -1,0 +1,19 @@
+name: GitHub 3D Profile
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
