@@ -18,19 +18,7 @@ Sou um Desenvolvedor Java focado em construir aplicações back-end eficientes e
 
 ---
 
-### 📊 TryHackMe
-<div align="center">
-  <a href="https://github.com/sam06tanb">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SamirTajra.png" alt="Your Image Badge" />
-</div>
-
----
-
 ### 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sam06tanb&theme=dracula&column=6" alt="sam06tanb" />
-</div>
 
 ---
 
